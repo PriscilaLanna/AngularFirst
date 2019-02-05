@@ -12,3 +12,5 @@ let daoPessao = new PessoaDAO()
 
 console.log(daoPessao.selecionarTodos())
 console.log(daoPessao.nomeTabela);
+
+//teste
